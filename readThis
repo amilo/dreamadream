@@ -1,6 +1,6 @@
-sketch must be placed in sketchfolder with same name.
+sketch must be placed in sketch folder with same name.
 
 Library minim must be installed either from Processing or placing the
-folder in the /Processing/libraries/minim
+minim library content in the /Processing/libraries/minim folder
 
 available here: https://github.com/ddf/Minim/releases/tag/v2.2.0
